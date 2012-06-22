@@ -15,7 +15,7 @@ curl http://em.bascht.com/viertelfinale.json|python -mjson.tool
             "Tschechien", 
             "Portugal"
         ], 
-        "result": "3:1"
+        "result": "0:1"
     }, 
     {
         "match": [
